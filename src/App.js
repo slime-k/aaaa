@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React5
+          Learn React山﨑氏
         </a>
       </header>
     </div>
